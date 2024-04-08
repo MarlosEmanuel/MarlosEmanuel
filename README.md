@@ -1,7 +1,7 @@
-# Welcome to my profile!
+# Bem vindo ao meu perfil
 Me chamo Marlos Emanuel, sou estudante de Ciências da Computação da Universidade Estudal do Rio Grande do Norte.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&theme=transparent&bg_color=FFFFFF&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=000&text_color=000)
 ## Habilidades
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
