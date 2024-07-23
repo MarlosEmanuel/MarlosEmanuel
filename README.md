@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Marlos!;" />
 </h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=30A3DC)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=30A3DC) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&hide=contribs,prs)
 
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
