@@ -1,4 +1,4 @@
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MarlosEmanuel/MarlosEmanuel/blob/output/github-contribution-grid-snake.svg)
 # Bem vindo ao meu perfil
 Me chamo Marlos Emanuel, sou estudante de Ciências da Computação da Universidade Estudal do Rio Grande do Norte.
 
