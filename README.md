@@ -5,15 +5,9 @@
 </h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=30A3DC)
-## Habilidades
+<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=python,ruby,rails,html,css,github,linux,javascript,nodejs,postgresql,mysql,powershell,mongodb,vscode" />
-</div>
-
-## Contatos
-
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=instagram,discord,linkedin,gmail" />
 </div>
 
 <h1 align="center">
