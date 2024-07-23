@@ -7,7 +7,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarlosEmanuel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=fff&text_color=30A3DC)
 ## Habilidades
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=python,ruby,rails,html,css,github,linux,javascript,postgresql,mysql,powershell,mongodb,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,ruby,rails,html,css,github,linux,javascript,nodejs,postgresql,mysql,powershell,mongodb,vscode" />
 </div>
 ## Contatos
 [![Instagram](https://img.shields.io/badge/-Instagram-%2330A3DC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eimarlone/)
