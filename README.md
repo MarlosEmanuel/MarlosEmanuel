@@ -9,7 +9,9 @@
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=python,ruby,rails,html,css,github,linux,javascript,nodejs,postgresql,mysql,powershell,mongodb,vscode" />
 </div>
+
 ## Contatos
+
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=instagram,discord,linkedin,gmail" />
 </div>
