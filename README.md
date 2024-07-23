@@ -19,3 +19,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%2330A3DC?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eimarlone/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5584987421217)
 [![Gmail](https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marlosemanuel28@gmail.com)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
+</h1>
