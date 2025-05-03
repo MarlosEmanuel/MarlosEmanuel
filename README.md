@@ -3,7 +3,7 @@
 </h1>
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=python,java,spring,html,css,vue,github,linux,nodejs,postgresql,mysql,c,mongodb,vscode, docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,vue,github,nodejs,postgresql,mysql,mongodb,vscode,docker" />
 </div>
 
 <h1 align="center">
